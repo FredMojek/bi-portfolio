@@ -1,12 +1,13 @@
 # Fred Mojekwu — BI & AI Portfolio
 
-**Senior BI Consultant | Power BI · Microsoft Fabric · Python · Azure**
+**Senior BI Consultant | Power BI · Microsoft Fabric · Databricks · Python · Azure**
 
 > "I help SMB owners stop guessing and start growing — by turning their existing data into real-time insights and AI-powered decisions."
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fred%20Mojekwu-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/fredmojekwu)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)](https://fabric.microsoft.com)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)](https://databricks.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
 [![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
@@ -78,11 +79,12 @@ Each solution answers four questions:
 | Category | Technologies |
 |---|---|
 | Visualisation | Power BI Desktop, Power BI Service, Copilot for Power BI |
-| Data Platform | Microsoft Fabric Lakehouse, Azure Data Factory, Gen2 Dataflows |
-| Programming | Python, PySpark, DAX, T-SQL, M (Power Query) |
-| ML & AI | scikit-learn, Fabric Data Agents, Azure OpenAI |
-| DevOps | GitHub Actions, CI/CD, Git version control |
-| Cloud | Microsoft Azure, Microsoft Fabric |
+| Data Platform | Microsoft Fabric Lakehouse, Azure Data Factory, Gen2 Dataflows, Azure Databricks |
+| Programming | Python, PySpark, DAX, T-SQL, M (Power Query), Scala |
+| ML & AI | scikit-learn, MLflow, Fabric Data Agents, Azure OpenAI |
+| DevOps | GitHub Actions, CI/CD, Git version control, Azure DevOps |
+| Cloud | Microsoft Azure, Microsoft Fabric, Azure Databricks |
+| Architecture | Medallion Architecture (Bronze/Silver/Gold), Delta Lake, Unity Catalog |
 
 ---
 
