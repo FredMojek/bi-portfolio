@@ -28,7 +28,7 @@ happening   it happen    happen     I do now
 
 Each solution answers four questions:
 - **What is happening?** — Descriptive analytics
-- **Why did it happen?** — Diagnostic root cause analysis  
+- **Why did it happen?** — Diagnostic root cause analysis
 - **What will happen?** — Predictive ML models
 - **What should I do now?** — Prescriptive action cards
 
@@ -37,8 +37,8 @@ Each solution answers four questions:
 ## Projects
 
 ### 🏗️ Project 01 — Job Profitability Dashboard
-**Industry:** Construction & Trades  
-**Problem:** Trades business owners discover unprofitable jobs after completion — too late to act.  
+**Industry:** Construction & Trades
+**Problem:** Trades business owners discover unprofitable jobs after completion — too late to act.
 **Solution:** Real-time job profitability tracking with labour burn rate alerts, cost variance analysis, and cash flow visibility across all active jobs.
 
 **Stack:** `Power BI` `Azure Data Factory` `DAX` `Excel`
@@ -50,13 +50,13 @@ Each solution answers four questions:
 | Overdue invoice tracker with dynamic day counter | Never miss a cash flow problem |
 | Portfolio margin health across 6 concurrent jobs | One view of the entire operation |
 
-📊 [View Dashboard](project-01-job-profitability/screenshots/dashboard.png) · 📁 [View Project Files](project-01-job-profitability/) · 📖 [DAX Measures](project-01-job-profitability/dax/measures.md)
+📁 [View Project](project-01-job-profitability/) · 📖 [DAX Measures](project-01-job-profitability/dax/measures.md)
 
 ---
 
 ### 🏢 Project 02 — Property Portfolio Intelligence Suite
-**Industry:** Property Management  
-**Problem:** Property managers have no single view of portfolio health — rent data, maintenance costs, vacancy rates, and compliance deadlines live in separate systems.  
+**Industry:** Property Management
+**Problem:** Property managers have no single view of portfolio health — rent data, maintenance costs, vacancy rates, and compliance deadlines live in separate systems.
 **Solution:** End-to-end BI solution using Microsoft Fabric medallion architecture, PySpark transformation, Python ML vacancy prediction, and AI-powered prescriptive action cards.
 
 **Stack:** `Microsoft Fabric Lakehouse` `Gen2 Dataflows` `PySpark` `Python (scikit-learn)` `Power BI` `Copilot for Power BI` `GitHub CI/CD`
@@ -67,7 +67,7 @@ Each solution answers four questions:
 | Predictive | Vacancy risk scoring per unit — ML model (scikit-learn) |
 | Prescriptive | AI-generated action cards with recommended next steps |
 
-📊 [View Dashboard](project-02-property-management/screenshots/dashboard.png) · 📁 [View Project Files](project-02-property-management/)
+📁 [View Project](project-02-property-management/)
 
 > 🔨 *In progress — building weekly*
 
@@ -86,15 +86,34 @@ Each solution answers four questions:
 
 ---
 
+## Call to Action Framework
+
+This is the methodology applied across every project in this portfolio.
+
+Most BI tools answer one question: *what happened?*
+
+This framework answers four:
+
+| Stage | Question | Analytics Type |
+|---|---|---|
+| **Insight** | What is happening right now? | Descriptive |
+| **Diagnosis** | Why is it happening? | Diagnostic |
+| **Prediction** | What will happen next? | Predictive |
+| **Action** | What should I do about it? | Prescriptive |
+
+The result is a dashboard that doesn't just inform — it tells the business owner exactly what to do next.
+
+---
+
 ## Work With Me
 
 I work with SMB owners who are done making expensive decisions without the data to back them up.
 
-**The Data Clarity Sprint**  
+**The Data Clarity Sprint**
 In 14 days I'll show you exactly where your business is leaking money, missing revenue, and wasting time — using data you already have. If we don't find at least 3 clear opportunities, you don't pay.
 
-📧 mojekfred@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/fredmojekwu)  
+📧 mojekfred@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/fredmojekwu)
 🏢 Edmonton, Alberta, Canada
 
 ---
