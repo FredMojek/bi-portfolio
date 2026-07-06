@@ -1,0 +1,52 @@
+name: BI Portfolio Validation
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'project-*/**'
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    name: Validate BI Assets
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas openpyxl
+
+      - name: Validate data files
+        run: python .github/scripts/validate_assets.py
+
+      - name: Check documentation completeness
+        run: |
+          echo "Checking all projects have README files..."
+          for dir in project-*/; do
+            if [ ! -f "$dir/README.md" ]; then
+              echo "MISSING: $dir/README.md"
+              exit 1
+            fi
+            echo "OK: $dir/README.md"
+          done
+
+      - name: Generate asset report
+        run: |
+          echo "## BI Portfolio Asset Report" >> $GITHUB_STEP_SUMMARY
+          echo "**Validated:** $(date)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Project | Status |" >> $GITHUB_STEP_SUMMARY
+          echo "|---|---|" >> $GITHUB_STEP_SUMMARY
+          for dir in project-*/; do
+            echo "| $dir | ✅ Validated |" >> $GITHUB_STEP_SUMMARY
+          done
