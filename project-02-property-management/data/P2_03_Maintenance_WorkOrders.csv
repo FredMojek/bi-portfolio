@@ -1,0 +1,149 @@
+work_order_id,unit_id,property_id,category,priority,status,description,date_raised,date_completed,cost_actual,cost_estimated,technician,tenant_reported
+WO-1000,P-001-U03,P-001,Landscaping,Medium,Completed,Landscaping issue reported in P-001-U03,2025-03-13,2025-04-21,1665,1665,Tech-02,Yes
+WO-1001,P-001-U04,P-001,HVAC,Low,Completed,HVAC issue reported in P-001-U04,2025-03-23,2025-04-06,484,484,Tech-07,No
+WO-1002,P-001-U05,P-001,Landscaping,Medium,In Progress,Landscaping issue reported in P-001-U05,2025-03-04,,0,616,Tech-07,Yes
+WO-1003,P-001-U05,P-001,Appliance,Medium,Completed,Appliance issue reported in P-001-U05,2024-12-12,2025-03-15,2308,2308,Tech-01,Yes
+WO-1004,P-001-U05,P-001,Landscaping,Low,Completed,Landscaping issue reported in P-001-U05,2025-03-15,2025-05-05,987,987,Tech-03,No
+WO-1005,P-001-U06,P-001,Pest Control,High,Completed,Pest Control issue reported in P-001-U06,2025-04-17,2025-05-24,1913,1913,Tech-07,Yes
+WO-1006,P-001-U06,P-001,Pest Control,High,Open,Pest Control issue reported in P-001-U06,2025-02-09,,0,323,Tech-01,No
+WO-1007,P-001-U08,P-001,Landscaping,Medium,In Progress,Landscaping issue reported in P-001-U08,2025-03-18,,0,1860,Tech-02,No
+WO-1008,P-001-U08,P-001,Plumbing,Low,Completed,Plumbing issue reported in P-001-U08,2024-12-06,2025-03-01,2034,2034,Tech-02,No
+WO-1009,P-001-U10,P-001,Landscaping,Medium,Completed,Landscaping issue reported in P-001-U10,2025-03-13,2025-04-19,1771,1771,Tech-04,No
+WO-1010,P-001-U11,P-001,Electrical,Medium,Completed,Electrical issue reported in P-001-U11,2025-04-12,2025-04-13,2238,2238,Tech-06,No
+WO-1011,P-001-U12,P-001,Structural,High,Completed,Structural issue reported in P-001-U12,2024-12-28,2025-04-23,860,860,Tech-02,Yes
+WO-1012,P-001-U13,P-001,General,Low,In Progress,General issue reported in P-001-U13,2024-12-08,,0,1988,Tech-06,No
+WO-1013,P-001-U13,P-001,HVAC,Medium,Completed,HVAC issue reported in P-001-U13,2025-03-22,2025-05-25,1390,1390,Tech-06,Yes
+WO-1014,P-001-U13,P-001,Appliance,Medium,Completed,Appliance issue reported in P-001-U13,2025-03-19,2025-05-23,1660,1660,Tech-02,No
+WO-1015,P-001-U14,P-001,Plumbing,Medium,Open,Plumbing issue reported in P-001-U14,2025-03-10,,0,921,Tech-08,Yes
+WO-1016,P-001-U14,P-001,Plumbing,Medium,Open,Plumbing issue reported in P-001-U14,2025-05-10,,0,1556,Tech-03,Yes
+WO-1017,P-001-U14,P-001,Structural,Low,Overdue,Structural issue reported in P-001-U14,2025-01-18,,0,2296,Tech-03,No
+WO-1018,P-001-U15,P-001,Appliance,Medium,In Progress,Appliance issue reported in P-001-U15,2024-12-21,,0,364,Tech-06,Yes
+WO-1019,P-001-U15,P-001,Pest Control,High,In Progress,Pest Control issue reported in P-001-U15,2025-03-28,,0,1313,Tech-03,No
+WO-1020,P-001-U17,P-001,Pest Control,Medium,In Progress,Pest Control issue reported in P-001-U17,2025-04-28,,0,1755,Tech-02,No
+WO-1021,P-001-U18,P-001,Pest Control,Low,In Progress,Pest Control issue reported in P-001-U18,2025-05-08,,0,2306,Tech-07,No
+WO-1022,P-001-U18,P-001,Plumbing,Medium,Completed,Plumbing issue reported in P-001-U18,2025-03-05,2025-03-31,1027,1027,Tech-04,Yes
+WO-1023,P-001-U18,P-001,HVAC,High,Completed,HVAC issue reported in P-001-U18,2025-01-22,2025-05-23,564,564,Tech-06,Yes
+WO-1024,P-001-U19,P-001,HVAC,High,Open,HVAC issue reported in P-001-U19,2025-02-08,,0,828,Tech-01,No
+WO-1025,P-001-U19,P-001,Pest Control,Medium,Completed,Pest Control issue reported in P-001-U19,2024-12-26,2025-03-21,1969,1969,Tech-08,Yes
+WO-1026,P-001-U19,P-001,Structural,Medium,Open,Structural issue reported in P-001-U19,2025-04-12,,0,2071,Tech-06,No
+WO-1027,P-001-U20,P-001,Appliance,Low,Completed,Appliance issue reported in P-001-U20,2025-04-20,2025-05-20,1864,1864,Tech-03,No
+WO-1028,P-001-U20,P-001,Plumbing,Medium,Open,Plumbing issue reported in P-001-U20,2025-05-05,,0,2421,Tech-02,No
+WO-1029,P-001-U20,P-001,Electrical,Low,Completed,Electrical issue reported in P-001-U20,2025-04-24,2025-05-05,2252,2252,Tech-02,Yes
+WO-1030,P-001-U21,P-001,Pest Control,Low,Completed,Pest Control issue reported in P-001-U21,2025-01-23,2025-02-26,1773,1773,Tech-04,No
+WO-1031,P-001-U21,P-001,Electrical,Medium,Completed,Electrical issue reported in P-001-U21,2024-12-16,2025-03-08,555,555,Tech-03,Yes
+WO-1032,P-001-U21,P-001,Plumbing,Medium,Open,Plumbing issue reported in P-001-U21,2025-01-31,,0,718,Tech-08,Yes
+WO-1033,P-001-U24,P-001,Structural,Low,Completed,Structural issue reported in P-001-U24,2025-02-12,2025-05-18,2311,2311,Tech-05,Yes
+WO-1034,P-001-U24,P-001,Appliance,High,Completed,Appliance issue reported in P-001-U24,2025-05-15,2025-05-29,2022,2022,Tech-08,Yes
+WO-1035,P-002-U01,P-002,HVAC,Medium,Completed,HVAC issue reported in P-002-U01,2025-03-31,2025-04-26,1595,1595,Tech-07,Yes
+WO-1036,P-002-U03,P-002,Electrical,Low,Completed,Electrical issue reported in P-002-U03,2025-01-10,2025-05-27,2229,2229,Tech-07,No
+WO-1037,P-002-U03,P-002,Plumbing,Medium,Overdue,Plumbing issue reported in P-002-U03,2025-05-27,,0,1188,Tech-06,Yes
+WO-1038,P-002-U04,P-002,Structural,Low,In Progress,Structural issue reported in P-002-U04,2025-04-27,,0,1511,Tech-01,No
+WO-1039,P-002-U04,P-002,Pest Control,Low,Completed,Pest Control issue reported in P-002-U04,2024-12-04,2025-01-30,2053,2053,Tech-03,Yes
+WO-1040,P-002-U06,P-002,Plumbing,Medium,Completed,Plumbing issue reported in P-002-U06,2025-05-21,2025-05-27,967,967,Tech-05,No
+WO-1041,P-002-U06,P-002,General,Medium,In Progress,General issue reported in P-002-U06,2025-03-19,,0,932,Tech-06,Yes
+WO-1042,P-002-U06,P-002,Pest Control,Medium,In Progress,Pest Control issue reported in P-002-U06,2025-02-18,,0,1939,Tech-08,No
+WO-1043,P-002-U07,P-002,HVAC,Medium,Completed,HVAC issue reported in P-002-U07,2025-03-24,2025-05-22,2276,2276,Tech-07,Yes
+WO-1044,P-002-U07,P-002,Landscaping,Medium,Open,Landscaping issue reported in P-002-U07,2025-03-17,,0,2384,Tech-06,Yes
+WO-1045,P-002-U09,P-002,Appliance,Medium,In Progress,Appliance issue reported in P-002-U09,2025-04-19,,0,1895,Tech-08,No
+WO-1046,P-002-U09,P-002,General,Emergency,Open,General issue reported in P-002-U09,2024-12-25,,0,1594,Tech-07,No
+WO-1047,P-002-U12,P-002,Pest Control,Medium,In Progress,Pest Control issue reported in P-002-U12,2025-05-24,,0,805,Tech-03,No
+WO-1048,P-002-U12,P-002,Plumbing,High,Completed,Plumbing issue reported in P-002-U12,2025-02-28,2025-04-13,1650,1650,Tech-01,Yes
+WO-1049,P-002-U12,P-002,General,Low,Completed,General issue reported in P-002-U12,2025-01-05,2025-04-27,464,464,Tech-06,No
+WO-1050,P-003-U01,P-003,Appliance,Medium,Completed,Appliance issue reported in P-003-U01,2025-01-24,2025-02-22,912,912,Tech-02,No
+WO-1051,P-003-U01,P-003,Appliance,Low,Completed,Appliance issue reported in P-003-U01,2024-12-05,2025-01-27,1319,1319,Tech-04,Yes
+WO-1052,P-003-U02,P-003,Electrical,Medium,Open,Electrical issue reported in P-003-U02,2025-05-09,,0,1973,Tech-06,No
+WO-1053,P-003-U04,P-003,Appliance,Low,In Progress,Appliance issue reported in P-003-U04,2025-02-28,,0,863,Tech-04,Yes
+WO-1054,P-003-U04,P-003,Structural,Low,Completed,Structural issue reported in P-003-U04,2025-05-25,2025-05-30,2173,2173,Tech-06,No
+WO-1055,P-003-U05,P-003,Electrical,High,Completed,Electrical issue reported in P-003-U05,2025-01-17,2025-02-16,2110,2110,Tech-07,Yes
+WO-1056,P-003-U06,P-003,Pest Control,Medium,Completed,Pest Control issue reported in P-003-U06,2025-03-04,2025-05-16,2269,2269,Tech-03,Yes
+WO-1057,P-003-U07,P-003,Plumbing,Low,Completed,Plumbing issue reported in P-003-U07,2025-04-19,2025-05-22,1395,1395,Tech-06,Yes
+WO-1058,P-003-U07,P-003,Pest Control,Low,Completed,Pest Control issue reported in P-003-U07,2025-05-11,2025-05-24,1313,1313,Tech-04,No
+WO-1059,P-003-U07,P-003,HVAC,Medium,In Progress,HVAC issue reported in P-003-U07,2025-01-23,,0,532,Tech-03,Yes
+WO-1060,P-003-U08,P-003,Pest Control,Low,Completed,Pest Control issue reported in P-003-U08,2025-05-11,2025-05-31,266,266,Tech-05,Yes
+WO-1061,P-004-U01,P-004,Appliance,Medium,Overdue,Appliance issue reported in P-004-U01,2025-01-28,,0,3274,Tech-04,No
+WO-1062,P-004-U01,P-004,HVAC,Medium,Completed,HVAC issue reported in P-004-U01,2025-01-28,2025-04-03,4204,4204,Tech-04,No
+WO-1063,P-004-U02,P-004,Structural,Low,Overdue,Structural issue reported in P-004-U02,2025-02-26,,0,1871,Tech-02,No
+WO-1064,P-004-U02,P-004,HVAC,High,Completed,HVAC issue reported in P-004-U02,2025-05-19,2025-05-28,1593,1593,Tech-07,No
+WO-1065,P-004-U02,P-004,Landscaping,Low,Overdue,Landscaping issue reported in P-004-U02,2025-03-12,,0,5532,Tech-04,Yes
+WO-1066,P-004-U02,P-004,General,High,Overdue,General issue reported in P-004-U02,2025-05-26,,0,4874,Tech-02,No
+WO-1067,P-004-U03,P-004,HVAC,Emergency,Completed,HVAC issue reported in P-004-U03,2024-12-15,2025-02-01,5694,5694,Tech-05,Yes
+WO-1068,P-004-U03,P-004,Electrical,Low,Overdue,Electrical issue reported in P-004-U03,2025-02-27,,0,4103,Tech-01,No
+WO-1069,P-004-U03,P-004,HVAC,High,Open,HVAC issue reported in P-004-U03,2025-02-22,,0,1402,Tech-08,No
+WO-1070,P-004-U04,P-004,Electrical,Medium,In Progress,Electrical issue reported in P-004-U04,2025-04-25,,0,3795,Tech-04,No
+WO-1071,P-004-U04,P-004,Plumbing,Emergency,In Progress,Plumbing issue reported in P-004-U04,2025-01-19,,0,4680,Tech-08,Yes
+WO-1072,P-004-U04,P-004,Electrical,Medium,Completed,Electrical issue reported in P-004-U04,2025-03-16,2025-03-18,5850,5850,Tech-06,No
+WO-1073,P-004-U05,P-004,Electrical,Medium,Overdue,Electrical issue reported in P-004-U05,2025-03-14,,0,5581,Tech-01,No
+WO-1074,P-004-U05,P-004,Landscaping,Medium,Overdue,Landscaping issue reported in P-004-U05,2025-04-03,,0,5531,Tech-01,No
+WO-1075,P-004-U05,P-004,HVAC,Medium,Overdue,HVAC issue reported in P-004-U05,2025-04-24,,0,3914,Tech-04,Yes
+WO-1076,P-004-U05,P-004,Plumbing,High,In Progress,Plumbing issue reported in P-004-U05,2024-12-06,,0,4182,Tech-04,No
+WO-1077,P-004-U05,P-004,Appliance,Medium,Completed,Appliance issue reported in P-004-U05,2025-01-19,2025-04-09,1931,1931,Tech-06,No
+WO-1078,P-004-U06,P-004,HVAC,Medium,Open,HVAC issue reported in P-004-U06,2024-12-08,,0,6336,Tech-05,No
+WO-1079,P-004-U06,P-004,Landscaping,High,Completed,Landscaping issue reported in P-004-U06,2025-03-19,2025-05-06,3238,3238,Tech-08,No
+WO-1080,P-004-U06,P-004,Electrical,Low,Overdue,Electrical issue reported in P-004-U06,2025-03-19,,0,3040,Tech-02,No
+WO-1081,P-004-U06,P-004,Appliance,Low,Overdue,Appliance issue reported in P-004-U06,2025-05-21,,0,3179,Tech-05,Yes
+WO-1082,P-004-U07,P-004,Structural,High,Overdue,Structural issue reported in P-004-U07,2025-01-08,,0,3021,Tech-05,Yes
+WO-1083,P-004-U07,P-004,HVAC,Medium,Completed,HVAC issue reported in P-004-U07,2025-01-16,2025-04-05,6287,6287,Tech-04,Yes
+WO-1084,P-004-U07,P-004,Electrical,Medium,Completed,Electrical issue reported in P-004-U07,2025-05-30,2025-06-01,1926,1926,Tech-07,No
+WO-1085,P-004-U07,P-004,Structural,Medium,Completed,Structural issue reported in P-004-U07,2024-12-17,2025-05-17,3138,3138,Tech-02,Yes
+WO-1086,P-004-U07,P-004,Pest Control,High,Overdue,Pest Control issue reported in P-004-U07,2025-05-22,,0,2240,Tech-07,No
+WO-1087,P-004-U08,P-004,Plumbing,Medium,Completed,Plumbing issue reported in P-004-U08,2025-03-20,2025-04-04,3544,3544,Tech-08,Yes
+WO-1088,P-004-U08,P-004,Electrical,Medium,In Progress,Electrical issue reported in P-004-U08,2024-12-17,,0,4559,Tech-05,Yes
+WO-1089,P-004-U08,P-004,Structural,Medium,Open,Structural issue reported in P-004-U08,2025-04-17,,0,2382,Tech-07,No
+WO-1090,P-004-U08,P-004,Plumbing,Medium,Completed,Plumbing issue reported in P-004-U08,2025-01-29,2025-04-21,1951,1951,Tech-04,Yes
+WO-1091,P-004-U09,P-004,Electrical,High,In Progress,Electrical issue reported in P-004-U09,2025-01-05,,0,5571,Tech-01,No
+WO-1092,P-004-U09,P-004,Structural,Emergency,Completed,Structural issue reported in P-004-U09,2025-04-21,2025-05-07,3313,3313,Tech-05,Yes
+WO-1093,P-004-U09,P-004,Electrical,High,Overdue,Electrical issue reported in P-004-U09,2025-04-22,,0,4717,Tech-08,No
+WO-1094,P-004-U09,P-004,Structural,Low,Overdue,Structural issue reported in P-004-U09,2025-04-06,,0,6240,Tech-04,Yes
+WO-1095,P-004-U09,P-004,HVAC,High,Overdue,HVAC issue reported in P-004-U09,2025-05-16,,0,1719,Tech-04,Yes
+WO-1096,P-004-U10,P-004,Plumbing,High,Open,Plumbing issue reported in P-004-U10,2025-01-21,,0,1544,Tech-08,Yes
+WO-1097,P-004-U10,P-004,Plumbing,High,Open,Plumbing issue reported in P-004-U10,2025-02-02,,0,5377,Tech-05,Yes
+WO-1098,P-004-U10,P-004,Electrical,Emergency,Completed,Electrical issue reported in P-004-U10,2025-05-20,2025-05-26,1398,1398,Tech-06,Yes
+WO-1099,P-004-U10,P-004,Pest Control,Emergency,Overdue,Pest Control issue reported in P-004-U10,2025-03-19,,0,1059,Tech-07,Yes
+WO-1100,P-004-U11,P-004,General,High,Overdue,General issue reported in P-004-U11,2025-02-24,,0,3892,Tech-02,Yes
+WO-1101,P-004-U11,P-004,Plumbing,Low,In Progress,Plumbing issue reported in P-004-U11,2025-04-04,,0,1843,Tech-01,Yes
+WO-1102,P-004-U11,P-004,HVAC,Medium,In Progress,HVAC issue reported in P-004-U11,2025-04-03,,0,3907,Tech-04,No
+WO-1103,P-004-U11,P-004,Plumbing,High,Overdue,Plumbing issue reported in P-004-U11,2025-05-23,,0,1724,Tech-07,Yes
+WO-1104,P-004-U11,P-004,Plumbing,Emergency,Completed,Plumbing issue reported in P-004-U11,2024-12-10,2025-05-20,5697,5697,Tech-04,Yes
+WO-1105,P-004-U12,P-004,HVAC,Medium,Overdue,HVAC issue reported in P-004-U12,2025-01-23,,0,1947,Tech-05,Yes
+WO-1106,P-004-U12,P-004,HVAC,Medium,Overdue,HVAC issue reported in P-004-U12,2025-03-15,,0,2740,Tech-03,Yes
+WO-1107,P-004-U12,P-004,Electrical,Emergency,Overdue,Electrical issue reported in P-004-U12,2024-12-22,,0,2234,Tech-07,No
+WO-1108,P-004-U12,P-004,Landscaping,Low,Overdue,Landscaping issue reported in P-004-U12,2025-03-11,,0,5096,Tech-07,No
+WO-1109,P-004-U12,P-004,Electrical,High,Open,Electrical issue reported in P-004-U12,2025-04-04,,0,2774,Tech-05,Yes
+WO-1110,P-004-U13,P-004,Landscaping,Medium,Completed,Landscaping issue reported in P-004-U13,2025-03-27,2025-05-06,2789,2789,Tech-06,Yes
+WO-1111,P-004-U13,P-004,Appliance,Emergency,Overdue,Appliance issue reported in P-004-U13,2025-05-18,,0,2360,Tech-05,No
+WO-1112,P-004-U14,P-004,Appliance,Medium,Overdue,Appliance issue reported in P-004-U14,2025-01-29,,0,2577,Tech-04,No
+WO-1113,P-004-U14,P-004,Landscaping,Emergency,Overdue,Landscaping issue reported in P-004-U14,2025-01-29,,0,1761,Tech-04,Yes
+WO-1114,P-004-U15,P-004,Structural,High,Open,Structural issue reported in P-004-U15,2025-03-14,,0,3743,Tech-05,No
+WO-1115,P-004-U15,P-004,HVAC,Medium,Overdue,HVAC issue reported in P-004-U15,2025-04-09,,0,3423,Tech-06,No
+WO-1116,P-004-U15,P-004,Plumbing,Low,Overdue,Plumbing issue reported in P-004-U15,2025-03-26,,0,932,Tech-07,No
+WO-1117,P-004-U16,P-004,Plumbing,Medium,Completed,Plumbing issue reported in P-004-U16,2024-12-15,2025-03-07,5310,5310,Tech-05,No
+WO-1118,P-004-U16,P-004,HVAC,Medium,In Progress,HVAC issue reported in P-004-U16,2025-01-12,,0,1946,Tech-08,Yes
+WO-1119,P-004-U16,P-004,HVAC,Medium,Completed,HVAC issue reported in P-004-U16,2025-05-19,2025-05-20,6274,6274,Tech-01,No
+WO-1120,P-005-U01,P-005,Structural,High,Completed,Structural issue reported in P-005-U01,2025-01-22,2025-02-05,1045,1045,Tech-06,Yes
+WO-1121,P-005-U02,P-005,General,Emergency,Completed,General issue reported in P-005-U02,2025-05-28,2025-06-01,1834,1834,Tech-05,No
+WO-1122,P-005-U02,P-005,Plumbing,Medium,In Progress,Plumbing issue reported in P-005-U02,2025-04-16,,0,1913,Tech-02,Yes
+WO-1123,P-005-U02,P-005,HVAC,Medium,In Progress,HVAC issue reported in P-005-U02,2025-03-02,,0,1183,Tech-05,No
+WO-1124,P-005-U04,P-005,Landscaping,Medium,Completed,Landscaping issue reported in P-005-U04,2025-03-16,2025-05-22,1075,1075,Tech-01,Yes
+WO-1125,P-005-U04,P-005,Landscaping,Medium,Completed,Landscaping issue reported in P-005-U04,2024-12-19,2025-05-30,379,379,Tech-03,Yes
+WO-1126,P-005-U05,P-005,Landscaping,Medium,Completed,Landscaping issue reported in P-005-U05,2025-01-16,2025-05-22,540,540,Tech-04,Yes
+WO-1127,P-005-U05,P-005,General,Medium,Open,General issue reported in P-005-U05,2025-01-12,,0,1298,Tech-01,Yes
+WO-1128,P-005-U05,P-005,Pest Control,Emergency,Completed,Pest Control issue reported in P-005-U05,2025-02-19,2025-05-23,740,740,Tech-05,Yes
+WO-1129,P-005-U06,P-005,Landscaping,Medium,Completed,Landscaping issue reported in P-005-U06,2025-04-26,2025-05-27,1722,1722,Tech-06,Yes
+WO-1130,P-005-U08,P-005,Structural,Low,Completed,Structural issue reported in P-005-U08,2025-03-09,2025-05-29,1774,1774,Tech-05,No
+WO-1131,P-005-U08,P-005,General,Medium,Completed,General issue reported in P-005-U08,2025-02-10,2025-05-09,1687,1687,Tech-07,Yes
+WO-1132,P-005-U08,P-005,Appliance,Low,In Progress,Appliance issue reported in P-005-U08,2025-03-24,,0,486,Tech-03,No
+WO-1133,P-005-U09,P-005,Landscaping,Medium,Completed,Landscaping issue reported in P-005-U09,2025-03-14,2025-04-06,171,171,Tech-06,No
+WO-1134,P-005-U11,P-005,Electrical,High,Completed,Electrical issue reported in P-005-U11,2025-01-20,2025-02-17,2422,2422,Tech-02,Yes
+WO-1135,P-005-U13,P-005,Electrical,Medium,In Progress,Electrical issue reported in P-005-U13,2025-05-28,,0,1727,Tech-05,No
+WO-1136,P-005-U13,P-005,Landscaping,Low,In Progress,Landscaping issue reported in P-005-U13,2025-03-30,,0,2441,Tech-03,No
+WO-1137,P-005-U14,P-005,HVAC,Medium,Completed,HVAC issue reported in P-005-U14,2025-05-15,2025-05-27,747,747,Tech-07,No
+WO-1138,P-005-U15,P-005,Appliance,Medium,Completed,Appliance issue reported in P-005-U15,2025-03-29,2025-03-30,1180,1180,Tech-04,No
+WO-1139,P-005-U15,P-005,Electrical,High,Completed,Electrical issue reported in P-005-U15,2025-03-07,2025-03-14,1770,1770,Tech-07,No
+WO-1140,P-005-U15,P-005,General,Medium,Open,General issue reported in P-005-U15,2025-03-16,,0,707,Tech-06,Yes
+WO-1141,P-005-U16,P-005,Pest Control,High,Completed,Pest Control issue reported in P-005-U16,2025-03-18,2025-03-31,1457,1457,Tech-04,No
+WO-1142,P-005-U16,P-005,Landscaping,Medium,In Progress,Landscaping issue reported in P-005-U16,2025-05-02,,0,1645,Tech-04,Yes
+WO-1143,P-005-U16,P-005,Plumbing,Low,Completed,Plumbing issue reported in P-005-U16,2025-02-08,2025-02-19,1008,1008,Tech-05,Yes
+WO-1144,P-005-U17,P-005,General,High,Completed,General issue reported in P-005-U17,2024-12-14,2025-04-23,1184,1184,Tech-07,No
+WO-1145,P-005-U17,P-005,Electrical,Medium,Completed,Electrical issue reported in P-005-U17,2025-01-15,2025-01-23,1791,1791,Tech-07,Yes
+WO-1146,P-005-U17,P-005,Pest Control,Low,Open,Pest Control issue reported in P-005-U17,2025-05-04,,0,498,Tech-04,No
+WO-1147,P-005-U18,P-005,Plumbing,Medium,In Progress,Plumbing issue reported in P-005-U18,2025-03-08,,0,1786,Tech-07,Yes
